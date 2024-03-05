@@ -1,4 +1,5 @@
 # FastAPI TRIPOSR 3D Model Generation
+[中文版](./README_CN.md)
 
 This repository introduces a FastAPI application (`app.py`) specifically designed as a backend application for the [TripoSR](https://github.com/VAST-AI-Research/TripoSR.git) project. As of March 4, 2024, TripoSR stands out as the fastest and highest-quality Image-to-3D model generator. The introduction of this FastAPI application aims to facilitate developers in creating Image-to-3D applications by offering a suite of image processing and 3D model generation functionalities.
 
